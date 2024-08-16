@@ -1,7 +1,7 @@
 # SpotifyPlaylist2MP3
 
-This is an old simple script I made and finally remade and uploaded, which allows you to download MP3 files for all tracks in a given Spotify playlist using YouTube as the source, I made this before realizing spotify-dl exists. 
-At least I got some experience working with APIs, and I plan to use Spotify's API in a future project.
+This is an old simple script I made and finally remade and uploaded, which allows you to download MP3 files for all songs in a given Spotify playlist using YouTube as the source, I made this before realizing spotify-dl exists. 
+At least, I gained some experience working with APIs, and I plan to use Spotify's API in a future project.
 
 ## Why?
 I am lazy, don't like ads(I ain't paying for premium), and being able to listen to music offline including music that isn't on Spotify would be nice.
