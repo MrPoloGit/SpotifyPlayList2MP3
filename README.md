@@ -11,7 +11,7 @@ I am lazy, don't like ads(I ain't paying for premium), and being able to listen 
 
 2. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/SpotifyPlaylist2MP3.git
+   git clone https://github.com/MrPoloGit/SpotifyPlaylist2MP3.git
    cd SpotifyPlaylist2MP3
    ```
 3. Download requirements
